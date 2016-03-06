@@ -59,7 +59,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="Calculate"
+            android:text="@string/calculate"
             android:textAllCaps="false"
             android:background="#e4d652"
             android:textSize="40sp" />
@@ -74,7 +74,7 @@
                 android:id="@+id/result_text"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Result:"
+                android:text="@string/result"
                 android:textSize="40sp"/>
 
             <TextView
